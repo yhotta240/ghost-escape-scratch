@@ -11,7 +11,11 @@
 5. 
 ## プレビュー
 
-[![ゲームのプレビュー](screenshot.png)](https://scratch.mit.edu/projects/953840424)
+<div align="center">
+  <a href="https://scratch.mit.edu/projects/953840424/" target="_blank">
+    <img src="screenshot.png" width="600" >
+  </a>
+</div>
 
 ## 注意
 
