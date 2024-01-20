@@ -9,12 +9,14 @@
 3. 60秒経過でゲームクリア！敵に接触してしまうとゲームオーバーとなります。
 
 ## プレビュー
-
+　プレビュー画面をクリックしてスクラッチのページに移動する
 <div align="center">
   <a href="https://scratch.mit.edu/projects/953840424/" target="_blank">
     <img src="screenshot.png" width="600" >
   </a>
 </div>
+
+　[クリックしてスクラッチを開く](https://scratch.mit.edu/projects/953840424/)
 
 ## 注意
 
